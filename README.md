@@ -1,5 +1,6 @@
-Esta es la Documentacion del mis clases
+# Documentación de Mis Clases
 
+Esta es la documentación completa de mis clases y recursos educativos.
 
 ```
 const bloques = document.querySelectorAll('div[aria-label^="Segmento que empieza"]');
@@ -86,3 +87,45 @@ if (transcripcion) {
 })();
 ```
 
+
+Si quieres que Gemini, ChatGPT o cualquier IA te genere un resumen perfecto para tu flujo de trabajo en **Obsidian**, necesitas un prompt que le dé estructura de base de datos personal.
+
+Como sé que te gusta el **Clean Architecture** y eres **Full-stack**, este prompt está diseñado para que la IA organice la información de forma técnica y jerárquica.
+
+Copia y pega esto:
+
+---
+
+### 📝 El Prompt Maestro
+
+**Actúa como un Investigador Académico y Arquitecto de Software Senior.** Tu objetivo es transformar una transcripción de clase en una **Guía de Estudio Exhaustiva** para mi Obsidian.
+
+**Instrucciones de Proceso:**
+
+1. **Análisis de Transcripción:** Extrae los conceptos clave, pero no te quedes solo con lo que dice el profesor.
+    
+2. **Investigación Externa:** Para cada concepto técnico (ej. Kernel, Arquitectura Harvard, Redes P2P), busca información actualizada en internet y añade detalles técnicos que no estén en el texto (ej. diferencias actuales entre Ring 0 y Ring 3, o cuellos de botella en CPUs modernas).
+    
+3. **Estructura Requerida:**
+    
+    - **YAML Frontmatter:** Incluye metadata completa.
+        
+    - **Encabezados Jerárquicos:** Usa `#` para el título y `##` para secciones principales.
+        
+    - **Deep Dive Técnico:** Crea una sección extensa por cada tema principal donde expliques el "Cómo" y el "Por qué" desde una perspectiva de Ingeniería.
+        
+    - **Sección de Referencias:** Al final, añade una lista de enlaces o bibliografía sugerida (Documentación oficial, Whitepapers).
+        
+    - **Tracking de Tareas y Reglas:** Mantén los Callouts de `[!SUCCESS]`, `[!IMPORTANT]` y `[!WARNING]`.
+        
+
+**Reglas de Formato:**
+
+- Genera el resultado final en un bloque de código Markdown.
+    
+- Usa tablas comparativas detalladas.
+    
+- **EXTENSIÓN:** Sé detallado. Si el profesor menciona "Kernel", explica su gestión de memoria, planificación de procesos y seguridad.
+    
+
+**Contenido de la clase:**

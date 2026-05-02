@@ -81,11 +81,11 @@ Una función es continua en $(a, b)$ si y solo si cumple:
 
 ## 📖 Bibliografía y Ejercicios Autorizados
 
-|**Tema**|**Libro / Referencia**|**Ejercicios Disponibles (Escoger 3)**|
-|---|---|---|
-|**Límites**|**Smith, R. T.** (2019). _Cálculo de varias variables_. McGraw-Hill.|5, 9, 11, 15, 23, 24, 27, 31, 33, 34, 37, 39, 40, 41, 44|
-|**Derivadas**|**Stewart, J.** (2021). _Cálculo de varias variables_. Cengage.|9, 13, 15, 17, 22, 26, 27, 31, 35, 37, 39, 40, 46, 49, 51, 53, 55|
-|**Teoría**|**Céspedes, N.**|Módulo Referente Eje 2|
+| **Tema**      | **Libro / Referencia**                                               | **Ejercicios Disponibles (Escoger 3)**                            |
+| ------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Límites**   | **Smith, R. T.** (2019). _Cálculo de varias variables_. McGraw-Hill. | 5, 9, 11, 15, 23, 24, 27, 31, 33, 34, 37, 39, 40, 41, 44          |
+| **Derivadas** | **Stewart, J.** (2021). _Cálculo de varias variables_. Cengage.      | 9, 13, 15, 17, 22, 26, 27, 31, 35, 37, 39, 40, 46, 49, 51, 53, 55 |
+| **Teoría**    | **Céspedes, N.**                                                     | Módulo Referente Eje 2                                            |
 
 ---
 
