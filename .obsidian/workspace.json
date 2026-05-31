@@ -4,137 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "07b94a48fcac2e1c",
+        "id": "0b2a230325d2f871",
         "type": "tabs",
         "children": [
           {
-            "id": "7a7b3ed5254ce4b3",
+            "id": "487237f7695f4ef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
+                "file": "Sistemas Operativos II/Clase 22 Abril Detalle Técnico Eje 2 - Sistemas Operativos II.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "a4daf75414ba69ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "c1c665a3a57e2097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 09 de Abril  Criptografía III Protocolos y Práctica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 09 de Abril  Criptografía III Protocolos y Práctica"
-            }
-          },
-          {
-            "id": "d219b1fd84f0c906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "20310cc61e2abe2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "b8bf108ee2d9776a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 16 Abril Seguridad en Redes y Análisis de Tráfico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 16 Abril Seguridad en Redes y Análisis de Tráfico"
-            }
-          },
-          {
-            "id": "bd5c5965f838f77f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos II/Clase 13 Abril Detalle Técnico Eje 1 - Sistemas Operativos II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 13 Abril Detalle Técnico Eje 1 - Sistemas Operativos II"
-            }
-          },
-          {
-            "id": "65f26977687662d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d99f9c1704df57ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 30 Abril Seguridad en Redes y Análisis de Tráfico 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 30 Abril Seguridad en Redes y Análisis de Tráfico 1"
+              "title": "Clase 22 Abril Detalle Técnico Eje 2 - Sistemas Operativos II"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -277,33 +164,46 @@
               "icon": "lucide-list",
               "title": "Esquema de Bienvenido"
             }
+          },
+          {
+            "id": "466cc4ae805c6097",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d99f9c1704df57ba",
+  "active": "487237f7695f4ef7",
   "lastOpenFiles": [
-    "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 23 Abril Seguridad en Redes y Análisis de Tráfico 1.md",
-    "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 30 Abril Seguridad en Redes y Análisis de Tráfico 1.md",
     "README.md",
-    "Untitled.md",
-    "Sistemas Operativos II/Clase 22 Abril Detalle Técnico Eje 2 - Sistemas Operativos II.md",
     "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 16 Abril Seguridad en Redes y Análisis de Tráfico.md",
+    "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 7 de mayo de 2026 Criptografía.md",
+    "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 14 de mayo de 2026.md",
+    "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 23 Abril Seguridad en Redes y Análisis de Tráfico 1.md",
+    "CRIPTOGRAFIA III - 202610 - 1A - 11/Clase 30 Abril Seguridad en Redes y Análisis de Tráfico 2.md",
+    "Sistemas Operativos II/Clase 22 Abril Detalle Técnico Eje 2 - Sistemas Operativos II.md",
+    "Untitled.md",
     "Sistemas Operativos II/Clase 13 Abril Detalle Técnico Eje 1 - Sistemas Operativos II.md",
     "CÁLCULO MULTIVARIABLE - 202610 - 1A - 61/Clase 21 Cálculo Multivariable Eje 2 (Límites y Continuidad).md",
     "Bienvenido.md",
